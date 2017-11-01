@@ -1,2 +1,2 @@
 # personal_projects
-Consists of personal projects and softwares
+Consists of personal projects and custom written softwares
