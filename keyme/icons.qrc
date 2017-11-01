@@ -1,0 +1,9 @@
+<!DOCTYPE RCC> <RCC version="1.0">
+<qresource>
+	<file>folder.png</file>
+	<file>capture.png</file>
+	<file>stream_icon.png</file>
+	<file>key.png</file>
+	<file>logo_about.jpg</file>
+</qresource>
+</RCC>
