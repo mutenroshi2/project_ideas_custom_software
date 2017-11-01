@@ -1,9 +1,5 @@
 KEY DETECTOR v1.0
 
-
-Extract the .exe file and run the executable as admin
-
-
 Created a sample project to detect keys(reflected/metal surfaces) on a live video stream
 
 
