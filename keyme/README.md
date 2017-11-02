@@ -15,9 +15,6 @@ Key outline appears at the center of the video streaming - To help users align t
 Attach a key on a white piece of paper and align the key to the outline projected in the video
 
 
-Have attached few test images - test7.jpg is actual image captured from a phone , rest of the images are downloaded from the internet
-
-
 ---------------DEVELOPMENT/IMPROVEMENTS PLANNED------------------
 
 Better object detection algorithm needed - Right now many false positives are being detected(Eg:Paper,light source etc)
